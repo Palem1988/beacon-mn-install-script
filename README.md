@@ -17,7 +17,7 @@ You will need to run the script before setting up your node in your local wallet
 To get started with the installation, login to your VPS as the root user and run the two lines below.
 
 ```
-wget https://raw.githubusercontent.com/click2install/beacon/master/install-beacon.sh
+wget https://raw.githubusercontent.com/beaconcrypto/beacon-mn-install-script/master/install-beacon.sh
 bash install-beacon.sh
 ```
 
@@ -29,7 +29,7 @@ Run the script first so you have the information when it finishes, to complete y
 ```
 The script assumes you are running a cold wallet on your local PC and this script will execute on a Ubuntu Linux server. The steps involved are:
 
- 1. Run the masternode installation script as per the [instructions above](https://github.com/click2install/beacon#installation).
+ 1. Run the masternode installation script as per the [instructions above](https://github.com/beaconcrypto/beacon-mn-install-script#installation).
  2. When you are finished this process you will get some information on what has been done as well as some important information you will need for your cold wallet setup.
  3. **Copy/paste the output of this script into a text file and keep it safe.**
 
